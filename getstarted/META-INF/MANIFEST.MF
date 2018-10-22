@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: getstarted
+Bundle-SymbolicName: getstarted
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: getstarted.jar,
+  yingchen/Downloads/servlet-api-3.0-alpha-1.jar,
+  yingchen/Downloads/javax.servlet-3.0.0.v201103241009.jar
+Export-Package: getstarted
